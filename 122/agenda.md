@@ -60,7 +60,9 @@
   + Status updates since last interim
   + Review of open issue
 
-* Presenter: Kehan Yao
-* Reading Material: [draft-ysl-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ysl-cats-metric-definition/)
+* Reading Material: [draft-ietf-cats-metric-definition](https://datatracker.ietf.org/doc/draft-ietf-cats-metric-definition/)
+
+#### 4.1.1. Status Update of the CATS Metrics(Kehan Yao) 15 min
+#### 4.1.2. [Default Policy and Related Metrics in CATS](https://datatracker.ietf.org/doc/draft-du-cats-default-policy-and-metrics/) (Zongpeng Du) 5 min
 
 ## 6. Open Discussion & Next Steps (All)
